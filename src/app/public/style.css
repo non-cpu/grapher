@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#textBox {
+    position: absolute;
+    display: none;
+}
+
+#selectionArea {
+    position: absolute;
+    border: 1px solid black;
+    display: none;
+}
